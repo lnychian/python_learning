@@ -42,3 +42,6 @@ if __name__ == '__main__':
     else:
         with open('output.txt', 'w') as f:
             f.write(txt)
+
+
+            
